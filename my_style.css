@@ -1,0 +1,28 @@
+body {
+	background-image: url('clouds.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+
+.title {
+	display: flex;
+	color: blue;
+	font-family: courier ;
+	width: 325px;
+	padding:25px;
+	border: 25px black;
+	margin: 25px;
+	padding-right: 25px;
+	border-radius: 100px/50px;
+	background-color: black;
+}
+
+
+.app {
+	margin: 10px;
+	font-family: tahoma;
+	float:middle;
+	text-align: left;
+}
