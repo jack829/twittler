@@ -17,12 +17,14 @@ body {
 	padding-right: 25px;
 	border-radius: 100px/50px;
 	background-color: black;
+	text-align: center;
 }
 
 
-.app {
-	margin: 10px;
-	font-family: tahoma;
-	float:middle;
-	text-align: left;
+#subtitle {
+	font-size: small;
+}
+
+#newsfeed {
+background-color: white;
 }
