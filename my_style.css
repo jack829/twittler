@@ -10,21 +10,22 @@ body {
 	display: flex;
 	color: blue;
 	font-family: courier ;
-	width: 325px;
-	padding:25px;
+	width: 250px;
 	border: 25px black;
 	margin: 25px;
-	padding-right: 25px;
-	border-radius: 100px/50px;
+	border-radius: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
 	background-color: black;
 	text-align: center;
 }
 
 
-#subtitle {
-	font-size: small;
-}
 
-#newsfeed {
-background-color: white;
+
+#tweets {
+	background-color: white;
+	width: 30%;
+	padding: 10px 10px 10px 10px;
+	border-radius: 5px;
 }
